@@ -1,4 +1,3 @@
-
 # M3U playlist files
-*.m3u  text linguist-language=Text
-*.m3u8 text linguist-language=Text
+*.m3u linguist-detectable=true
+*.m3u8 linguist-detectable=true
